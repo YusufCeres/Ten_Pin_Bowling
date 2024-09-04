@@ -1,5 +1,4 @@
 
-Here's a sample README for your Java ten-pin bowling score tracker application:
 
 Ten-Pin Bowling Score Tracker
 Overview
@@ -20,7 +19,7 @@ Clone the Repository:
 bash
 Copy code
 git clone https://github.com/YusufCeres/Ten_Pin_Bowling.git
-cd ten-pin-bowling
+cd Bowling
 Compile the Java Program:
 
 bash
