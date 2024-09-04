@@ -16,19 +16,15 @@ A terminal or command prompt to run the application.
 Setup and Installation
 Clone the Repository:
 
-bash
-Copy code
 git clone https://github.com/YusufCeres/Ten_Pin_Bowling.git
 cd Bowling
 Compile the Java Program:
 
-bash
-Copy code
+
 javac Game.java
 Run the Program:
 
-bash
-Copy code
+
 java Game
 Usage
 Starting the Game:
@@ -44,8 +40,7 @@ Viewing Scores:
 After each frame, the current scores for all players will be displayed.
 At the end of the game, the final scores will be shown.
 Example
-bash
-Copy code
+
 Enter number of players: 2
 Enter name for player 1: Alice
 Enter name for player 2: Bob
